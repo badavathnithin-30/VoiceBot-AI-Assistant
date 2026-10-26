@@ -1,4 +1,4 @@
-# Voice AI Assistant
+# VoiceBot AI Assistant
 
 ## Description
 Voice AI Assistant is a Python-based project that allows users to interact with an AI using voice commands. It converts speech into text, generates answers using the Llama 3.2 model, and speaks the answers aloud.
